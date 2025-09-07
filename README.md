@@ -10,6 +10,9 @@ MindEase is an **AI-powered chatbot** designed to provide immediate, confidentia
 
 * * * * *
 
+<img width="1909" height="1035" alt="Screenshot 2025-09-07 172651" src="https://github.com/user-attachments/assets/5cf97a62-71ba-4cd7-add5-26a0325abbc1" />
+
+
 Features
 --------
 
